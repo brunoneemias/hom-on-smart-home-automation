@@ -8,7 +8,7 @@
 
 O app **hom\<on>** foi desenvolvido em **Delphi (FireMonkey)** para Android e apresenta uma interface intuitiva com botões por ambiente, seleção de dispositivo Bluetooth e feedback visual do estado da conexão.
 
-![Interface do hom<on>](./assets/app-preview.png)
+![](imagens/app1.jpg)
 
 ### Ambientes controlados pelo app:
 | Ícone | Ambiente |
