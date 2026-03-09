@@ -1,6 +1,6 @@
 # 🏠 hom\<on> — Smart Home Automation
 
-> Projeto de automação residencial desenvolvido durante o curso técnico na **ETEC**, integrando um aplicativo mobile com hardware Arduino via Bluetooth para simular o controle inteligente de uma residência.
+> Projeto de automação residencial, integrando um aplicativo mobile com hardware Arduino via Bluetooth para simular o controle inteligente de uma residência.
 
 ---
 
